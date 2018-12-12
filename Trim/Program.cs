@@ -17,6 +17,7 @@ namespace Trim
             str1 = str.Trim(Trimchars);
             Console.Write("The result  is now:{0}", str1 );
             Console.ReadKey();
+
         }
     }
 }

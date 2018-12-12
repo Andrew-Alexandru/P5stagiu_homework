@@ -17,6 +17,7 @@ namespace StarsWith
             str1 = Console.ReadLine();
             Console.Write("The result  is now:{0}", str.StartsWith(str1));
             Console.ReadKey();
+
         }
     }
 }
